@@ -1,0 +1,2 @@
+# MetodeNumerik
+Tugas Penyelesaian SPL
